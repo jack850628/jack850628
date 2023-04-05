@@ -2,7 +2,7 @@
 
 Show everyone my cute parrot GaGa.
 
-<img src="./IMAG3489.jpg" width="240"/>
+<img src="./IMAG3489.jpg" width="340"/>
 
 [我的作品](https://jack850628.github.io/)
 <!--
